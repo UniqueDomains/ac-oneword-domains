@@ -1,13 +1,13 @@
 
-# List of .AC One Word Domain Names (3,085)
+# List of .AC One Word Domain Names (3,176)
 
-[![Powered By Unique Domains](https://img.shields.io/badge/Powered%20by-Unique%20Domains-black)]() [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/ac-oneword-domains.svg?style=flat)]() [![3,085 .AC one word domains were indexed by Unique Domains](https://img.shields.io/badge/Domains%20Count-3%2C085-blue)]() [![Our domains scanner is currently active](https://img.shields.io/badge/Status-Currently%20Scanning-green)]() 
+[![Powered By Unique Domains](https://img.shields.io/badge/Powered%20by-Unique%20Domains-black)]() [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/ac-oneword-domains.svg?style=flat)]() [![3,176 .AC one word domains were indexed by Unique Domains](https://img.shields.io/badge/Domains%20Count-3%2C176-blue)]() [![Our domains scanner is currently active](https://img.shields.io/badge/Status-Currently%20Scanning-green)]() 
 
 We constantly sweep the web to catalog the highest potential .AC one-word domains still available to buy.
 
 This dataset contains 1,000 .AC one word domains with availability, attractiveness and demand scores.
 
-If you want to search & filters the complete database of [.AC one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=description.top) (3,085) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
+If you want to search & filters the complete database of [.AC one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=description.top) (3,176) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
 -----------
 
@@ -15,48 +15,48 @@ If you want to search & filters the complete database of [.AC one word domains](
     <a href="https://github.com/UniqueDomains/ac-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
     <a href="https://github.com/UniqueDomains/ac-oneword-domains/blob/main/all.csv"><b>⬇️ CSV (1K domains)</b></a> •
     <a href="https://github.com/UniqueDomains/ac-oneword-domains/blob/main/all.json"><b>⬇️ JSON (1K domains)</b></a> • 
-    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.09K)</b></a> • 
+    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.18K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain        | Status    | Attract. | Demand | Length | Created | Expires | Actions                                                                                                                                                                             |
-| ------------- | --------- | -------- | ------ | ------ | ------- | ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| abactinal.ac  | available | 50       | 1%     | 9      |         |         | [Analyse](https://unique.domains/domain/7f1657c7-bcd6-4c5c-9d8b-9c419ce9b97a?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.domain.analyze) |
-| abaft.ac      | available | 43       | 2%     | 5      |         |         | [Analyse](https://unique.domains/domain/53c76b1d-f8db-4aaa-80a2-8395ecb2b93e?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.domain.analyze) |
-| abandoned.ac  | available | 58       | 10%    | 9      |         |         | [Analyse](https://unique.domains/domain/02748b87-7a64-4fa4-8517-0f9b0921a501?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.domain.analyze) |
-| abashed.ac    | available | 60       | 2%     | 7      |         |         | [Analyse](https://unique.domains/domain/619af22b-0659-4e49-8164-9239387cbb69?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.domain.analyze) |
-| abasic.ac     | available | 54       | 2%     | 6      |         |         | [Analyse](https://unique.domains/domain/f4e99975-9523-462a-8b78-746b115b0cd8?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.domain.analyze) |
-| abatable.ac   | available | 54       | 1%     | 8      |         |         | [Analyse](https://unique.domains/domain/e7933afd-af58-4bf4-b4f7-788fdf80bb87?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.domain.analyze) |
-| abatic.ac     | available | 54       | 2%     | 6      |         |         | [Analyse](https://unique.domains/domain/3e38f024-2d09-4a7a-9506-4088c70e6ef6?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.domain.analyze) |
-| abaxial.ac    | available | 54       | 2%     | 7      |         |         | [Analyse](https://unique.domains/domain/c1f46d01-15a4-40d0-8280-0f4db08986e0?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.domain.analyze) |
-| abbatial.ac   | available | 50       | 1%     | 8      |         |         | [Analyse](https://unique.domains/domain/6278f20b-59ed-42ee-a083-1ab5d38c8b32?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.domain.analyze) |
-| abdicable.ac  | available | 50       | 1%     | 9      |         |         | [Analyse](https://unique.domains/domain/9cf012b2-8183-4061-a3c9-cfc2726b81d8?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.domain.analyze) |
-| abdominal.ac  | available | 82       | 2%     | 9      |         |         | [Analyse](https://unique.domains/domain/7df4dab0-a432-416f-84d7-8514113981c8?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.domain.analyze) |
-| abdominous.ac | available | 56       | 1%     | 10     |         |         | [Analyse](https://unique.domains/domain/7a1b276e-b868-4afd-a59f-c9412d90f232?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.domain.analyze) |
-| abducens.ac   | available | 54       | 1%     | 8      |         |         | [Analyse](https://unique.domains/domain/1f4e356f-aab9-4e55-8d2c-320cfd76b012?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.domain.analyze) |
-| abducent.ac   | available | 68       | 1%     | 8      |         |         | [Analyse](https://unique.domains/domain/27d69f63-afdb-4883-b447-becf5e2d0194?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.domain.analyze) |
-| abducting.ac  | available | 50       | 1%     | 9      |         |         | [Analyse](https://unique.domains/domain/6004cfd8-846d-4669-968b-2204eddccaa4?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.domain.analyze) |
-| abenaki.ac    | available | 82       | 3%     | 7      |         |         | [Analyse](https://unique.domains/domain/deadd447-60ea-4902-bce5-8ee93684a8b3?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.domain.analyze) |
-| aberdonian.ac | available | 68       | 1%     | 10     |         |         | [Analyse](https://unique.domains/domain/3f42b11a-8d4f-4869-9a73-9ad8908b0a54?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.domain.analyze) |
-| aberrant.ac   | available | 74       | 7%     | 8      |         |         | [Analyse](https://unique.domains/domain/1f78517f-ea03-4d87-adfe-a0d7265ba51e?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.domain.analyze) |
-| abeyant.ac    | available | 56       | 2%     | 7      |         |         | [Analyse](https://unique.domains/domain/76e40420-65b9-4b6a-8795-b68e7919f41f?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.domain.analyze) |
-| abhorrent.ac  | available | 54       | 1%     | 9      |         |         | [Analyse](https://unique.domains/domain/546c8ec4-5e50-4df1-bd90-408053f78f7e?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.domain.analyze) |
-| abiding.ac    | available | 106      | 5%     | 7      |         |         | [Analyse](https://unique.domains/domain/63d38f5f-b0d1-4392-abb3-25e62e57e222?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.domain.analyze) |
-| abient.ac     | available | 54       | 1%     | 6      |         |         | [Analyse](https://unique.domains/domain/6c20547f-6845-481b-9887-8d503ece98b4?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.domain.analyze) |
-| abject.ac     | available | 94       | 8%     | 6      |         |         | [Analyse](https://unique.domains/domain/aaa8bdbd-252c-48f1-83b3-fa686b4c6a3a?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.domain.analyze) |
-| abkhas.ac     | available | 68       | 1%     | 6      |         |         | [Analyse](https://unique.domains/domain/70245580-ec15-46a1-a618-b4772d6a7e2c?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.domain.analyze) |
-| abkhasian.ac  | available | 78       | 1%     | 9      |         |         | [Analyse](https://unique.domains/domain/e015d883-42d3-47c4-9abf-f934ef3a21f6?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.domain.analyze) |
-| abkhaz.ac     | available | 82       | 2%     | 6      |         |         | [Analyse](https://unique.domains/domain/f46ae916-d8d4-4ceb-abcf-05fdcd168345?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.domain.analyze) |
-| abkhazian.ac  | available | 78       | 1%     | 9      |         |         | [Analyse](https://unique.domains/domain/58607e11-76fa-4334-ad85-bcc7f49e2c1e?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.domain.analyze) |
-| ablated.ac    | available | 52       | 2%     | 7      |         |         | [Analyse](https://unique.domains/domain/3e3ff9e3-b02e-4897-8558-a898dca7841e?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.domain.analyze) |
-| ablative.ac   | available | 68       | 3%     | 8      |         |         | [Analyse](https://unique.domains/domain/c9a88999-67db-429f-a7b0-d50d6a8e2782?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.domain.analyze) |
-| ablaze.ac     | available | 72       | 6%     | 6      |         |         | [Analyse](https://unique.domains/domain/539fe13c-c1e7-44b7-ad3e-853d6c3acc47?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.domain.analyze) |
+| Domain        | Status    | Attract. | Demand | Length | Registrar | Created | Expires | Actions                                                                                                                                                                             |
+| ------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| abactinal.ac  | available | 50       | 1%     | 9      |           |         |         | [Analyse](https://unique.domains/domain/7f1657c7-bcd6-4c5c-9d8b-9c419ce9b97a?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.domain.analyze) |
+| abaft.ac      | available | 43       | 2%     | 5      |           |         |         | [Analyse](https://unique.domains/domain/53c76b1d-f8db-4aaa-80a2-8395ecb2b93e?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.domain.analyze) |
+| abandoned.ac  | available | 58       | 10%    | 9      |           |         |         | [Analyse](https://unique.domains/domain/02748b87-7a64-4fa4-8517-0f9b0921a501?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.domain.analyze) |
+| abashed.ac    | available | 60       | 2%     | 7      |           |         |         | [Analyse](https://unique.domains/domain/619af22b-0659-4e49-8164-9239387cbb69?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.domain.analyze) |
+| abasic.ac     | available | 54       | 2%     | 6      |           |         |         | [Analyse](https://unique.domains/domain/f4e99975-9523-462a-8b78-746b115b0cd8?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.domain.analyze) |
+| abatable.ac   | available | 54       | 1%     | 8      |           |         |         | [Analyse](https://unique.domains/domain/e7933afd-af58-4bf4-b4f7-788fdf80bb87?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.domain.analyze) |
+| abatic.ac     | available | 54       | 2%     | 6      |           |         |         | [Analyse](https://unique.domains/domain/3e38f024-2d09-4a7a-9506-4088c70e6ef6?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.domain.analyze) |
+| abaxial.ac    | available | 54       | 2%     | 7      |           |         |         | [Analyse](https://unique.domains/domain/c1f46d01-15a4-40d0-8280-0f4db08986e0?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.domain.analyze) |
+| abbatial.ac   | available | 50       | 1%     | 8      |           |         |         | [Analyse](https://unique.domains/domain/6278f20b-59ed-42ee-a083-1ab5d38c8b32?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.domain.analyze) |
+| abdicable.ac  | available | 50       | 1%     | 9      |           |         |         | [Analyse](https://unique.domains/domain/9cf012b2-8183-4061-a3c9-cfc2726b81d8?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.domain.analyze) |
+| abdominal.ac  | available | 82       | 2%     | 9      |           |         |         | [Analyse](https://unique.domains/domain/7df4dab0-a432-416f-84d7-8514113981c8?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.domain.analyze) |
+| abdominous.ac | available | 56       | 1%     | 10     |           |         |         | [Analyse](https://unique.domains/domain/7a1b276e-b868-4afd-a59f-c9412d90f232?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.domain.analyze) |
+| abducens.ac   | available | 54       | 1%     | 8      |           |         |         | [Analyse](https://unique.domains/domain/1f4e356f-aab9-4e55-8d2c-320cfd76b012?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.domain.analyze) |
+| abducent.ac   | available | 68       | 1%     | 8      |           |         |         | [Analyse](https://unique.domains/domain/27d69f63-afdb-4883-b447-becf5e2d0194?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.domain.analyze) |
+| abducting.ac  | available | 50       | 1%     | 9      |           |         |         | [Analyse](https://unique.domains/domain/6004cfd8-846d-4669-968b-2204eddccaa4?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.domain.analyze) |
+| abenaki.ac    | available | 82       | 3%     | 7      |           |         |         | [Analyse](https://unique.domains/domain/deadd447-60ea-4902-bce5-8ee93684a8b3?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.domain.analyze) |
+| aberdonian.ac | available | 68       | 1%     | 10     |           |         |         | [Analyse](https://unique.domains/domain/3f42b11a-8d4f-4869-9a73-9ad8908b0a54?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.domain.analyze) |
+| aberrant.ac   | available | 74       | 7%     | 8      |           |         |         | [Analyse](https://unique.domains/domain/1f78517f-ea03-4d87-adfe-a0d7265ba51e?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.domain.analyze) |
+| abeyant.ac    | available | 56       | 2%     | 7      |           |         |         | [Analyse](https://unique.domains/domain/76e40420-65b9-4b6a-8795-b68e7919f41f?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.domain.analyze) |
+| abhorrent.ac  | available | 54       | 1%     | 9      |           |         |         | [Analyse](https://unique.domains/domain/546c8ec4-5e50-4df1-bd90-408053f78f7e?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.domain.analyze) |
+| abiding.ac    | available | 106      | 5%     | 7      |           |         |         | [Analyse](https://unique.domains/domain/63d38f5f-b0d1-4392-abb3-25e62e57e222?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.domain.analyze) |
+| abient.ac     | available | 54       | 1%     | 6      |           |         |         | [Analyse](https://unique.domains/domain/6c20547f-6845-481b-9887-8d503ece98b4?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.domain.analyze) |
+| abject.ac     | available | 94       | 8%     | 6      |           |         |         | [Analyse](https://unique.domains/domain/aaa8bdbd-252c-48f1-83b3-fa686b4c6a3a?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.domain.analyze) |
+| abkhas.ac     | available | 68       | 1%     | 6      |           |         |         | [Analyse](https://unique.domains/domain/70245580-ec15-46a1-a618-b4772d6a7e2c?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.domain.analyze) |
+| abkhasian.ac  | available | 78       | 1%     | 9      |           |         |         | [Analyse](https://unique.domains/domain/e015d883-42d3-47c4-9abf-f934ef3a21f6?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.domain.analyze) |
+| abkhaz.ac     | available | 82       | 2%     | 6      |           |         |         | [Analyse](https://unique.domains/domain/f46ae916-d8d4-4ceb-abcf-05fdcd168345?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.domain.analyze) |
+| abkhazian.ac  | available | 78       | 1%     | 9      |           |         |         | [Analyse](https://unique.domains/domain/58607e11-76fa-4334-ad85-bcc7f49e2c1e?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.domain.analyze) |
+| ablated.ac    | available | 52       | 2%     | 7      |           |         |         | [Analyse](https://unique.domains/domain/3e3ff9e3-b02e-4897-8558-a898dca7841e?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.domain.analyze) |
+| ablative.ac   | available | 68       | 3%     | 8      |           |         |         | [Analyse](https://unique.domains/domain/c9a88999-67db-429f-a7b0-d50d6a8e2782?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.domain.analyze) |
+| ablaze.ac     | available | 72       | 6%     | 6      |           |         |         | [Analyse](https://unique.domains/domain/539fe13c-c1e7-44b7-ad3e-853d6c3acc47?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.domain.analyze) |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/ac-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
     <a href="https://github.com/UniqueDomains/ac-oneword-domains/blob/main/all.csv"><b>⬇️ CSV (1K domains)</b></a> •
     <a href="https://github.com/UniqueDomains/ac-oneword-domains/blob/main/all.json"><b>⬇️ JSON (1K domains)</b></a> • 
-    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.09K)</b></a> • 
+    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.18K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
@@ -66,12 +66,24 @@ If you want to search & filters the complete database of [.AC one word domains](
 
 - **Domain Name**: High-quality, single-word .AC domains.
 - **Status**: The current status of the domain: Available, Expired, Expiring, For Sale, ...
-- **Attractiveness**: The attractiveness score of the domain, evaluated by the word type, length, sentiment, popularity and brandability. The higher the score, the more attractive the domain is at eyes of people.
+- **Attract.**: The attractiveness score of the domain, evaluated by the word type, length, sentiment, popularity and brandability. The higher the score, the more attractive the domain is at eyes of people.
 - **Demand**: The buyer pressure for domain names based on this word. 0 is no demand, and 100 is high probability of being sold soon. Formula: domains sold with this word / total domains tested with this word.
 - **Length**: The word length of the domain (without the TLD)
+- **Registrar**: The registrar of the domain.
 - **Created**: The date the domain was created.
 - **Expires**: The date the domain expires.
-- **Registrar**: The registrar of the domain.
+
+**Online Database**:
+
+- Estimated value (from GoDaddy)
+- Business ideas (from GPT-5 highest version + web search)
+
+SEO analysis (on existing domains)
+- Domain Rating
+- Backlinks
+- Traffic vokume
+- Referring domains
+- Organic keywords
 
 # More One Word Domains
 
@@ -79,18 +91,18 @@ If you want to search & filters the complete database of [.AC one word domains](
 
 | Name     | Total Number | Extract                                                             | Full Database                                                                                                                              |
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Expired  | 19,429       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
-| Expiring | 44,507       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 2,881,227    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| Expired  | 19,522       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
+| Expiring | 45,166       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
+| All      | 2,936,903    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
 | -------------- | ------------ | ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| .AC            | 3,085        | [Github](https://github.com/UniqueDomains/ac-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.link)            |
-| .ACADEMY       | 2,840        | [Github](https://github.com/UniqueDomains/academy-oneword-domains)       | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.link)       |
-| .ACCOUNTANT    | 3,299        | [Github](https://github.com/UniqueDomains/accountant-oneword-domains)    | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=accountant-oneword-domains&utm_content=table.link)    |
-| .ACCOUNTANTS   | 3,259        | [Github](https://github.com/UniqueDomains/accountants-oneword-domains)   | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.link)   |
-| .ACTOR         | 3,244        | [Github](https://github.com/UniqueDomains/actor-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.link)         |
+| .AC            | 3,176        | [Github](https://github.com/UniqueDomains/ac-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.link)            |
+| .ACADEMY       | 2,934        | [Github](https://github.com/UniqueDomains/academy-oneword-domains)       | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.link)       |
+| .ACCOUNTANT    | 3,446        | [Github](https://github.com/UniqueDomains/accountant-oneword-domains)    | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=accountant-oneword-domains&utm_content=table.link)    |
+| .ACCOUNTANTS   | 3,402        | [Github](https://github.com/UniqueDomains/accountants-oneword-domains)   | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.link)   |
+| .ACTOR         | 3,382        | [Github](https://github.com/UniqueDomains/actor-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.link)         |
 | .ADULT         | 3,259        | [Github](https://github.com/UniqueDomains/adult-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=adult-oneword-domains&utm_content=table.link)         |
 | .AG            | 3,131        | [Github](https://github.com/UniqueDomains/ag-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=ag-oneword-domains&utm_content=table.link)            |
 | .AGENCY        | 2,504        | [Github](https://github.com/UniqueDomains/agency-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=agency-oneword-domains&utm_content=table.link)        |
