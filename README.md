@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .AC one-word domains still available to buy.
 
-This dataset contains 4,293 .AC one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,291 .AC one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.AC one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=description.top) (4,296) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -23,7 +23,7 @@ If you want to search & filters the complete database of [.AC one word domains](
 | ------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
 | abactinal.ac  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.ac      | available | 43       | 2%     | 5      |           |         |         |
-| abandoned.ac  | available | 58       | 10%    | 9      |           |         |         |
+| abandoned.ac  | available | 58       | 7%     | 9      |           |         |         |
 | abashed.ac    | available | 60       | 2%     | 7      |           |         |         |
 | abasic.ac     | available | 54       | 2%     | 6      |           |         |         |
 | abatable.ac   | available | 54       | 1%     | 8      |           |         |         |
@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.AC one word domains](
 | abbatial.ac   | available | 50       | 1%     | 8      |           |         |         |
 | abc.ac        | available | 102      | 41%    | 3      |           |         |         |
 | abdicable.ac  | available | 50       | 1%     | 9      |           |         |         |
-| abdominal.ac  | available | 82       | 1%     | 9      |           |         |         |
+| abdominal.ac  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.ac | available | 56       | 1%     | 10     |           |         |         |
 | abducens.ac   | available | 54       | 1%     | 8      |           |         |         |
 | abducent.ac   | available | 68       | 1%     | 8      |           |         |         |
@@ -41,7 +41,7 @@ If you want to search & filters the complete database of [.AC one word domains](
 | aberdonian.ac | available | 68       | 1%     | 10     |           |         |         |
 | aberrant.ac   | available | 74       | 7%     | 8      |           |         |         |
 | abeyant.ac    | available | 56       | 2%     | 7      |           |         |         |
-| abhorrent.ac  | available | 54       | 1%     | 9      |           |         |         |
+| abhorrent.ac  | available | 54       | 3%     | 9      |           |         |         |
 | abiding.ac    | available | 106      | 5%     | 7      |           |         |         |
 | abient.ac     | available | 54       | 1%     | 6      |           |         |         |
 | ability.ac    | available | 92       | 18%    | 7      |           |         |         |
