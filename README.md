@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .AC one-word domains still available to buy.
 
-This dataset contains 4,291 .AC one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,292 .AC one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.AC one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=description.top) (4,296) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -30,7 +30,7 @@ If you want to search & filters the complete database of [.AC one word domains](
 | abatic.ac     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.ac    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.ac   | available | 50       | 1%     | 8      |           |         |         |
-| abc.ac        | available | 102      | 41%    | 3      |           |         |         |
+| abc.ac        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.ac  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.ac  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.ac | available | 56       | 1%     | 10     |           |         |         |
