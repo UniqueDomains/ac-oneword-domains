@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .AC one-word domains still available to buy.
 
-This dataset contains 100 .AC one word domains with availability, attractiveness and demand scores.
+This dataset contains 8,505 .AC one word domains with availability, attractiveness and demand scores.
 
 
 
@@ -17,49 +17,49 @@ If you want to search & filters the complete database of [.AC one word domains](
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/ac-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/ac-oneword-domains/blob/main/ac.csv"><b>⬇️ CSV (100 domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/ac-oneword-domains/blob/main/ac.json"><b>⬇️ JSON (100 domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/ac-oneword-domains/blob/main/ac.csv"><b>⬇️ CSV (8.51K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/ac-oneword-domains/blob/main/ac.json"><b>⬇️ JSON (8.51K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (0)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain       | Status    | Attract. | Demand | Length | Registrar                       | Created          | Expires          |
-| ------------ | --------- | -------- | ------ | ------ | ------------------------------- | ---------------- | ---------------- |
-| half.ac      | premium   | 152      | 18%    | 4      |                                 |                  |                  |
-| christmas.ac | premium   | 146      | 29%    | 9      |                                 |                  |                  |
-| feel.ac      | premium   | 144      | 28%    | 4      |                                 |                  |                  |
-| sorry.ac     | available | 140      | 20%    | 5      | name.com                        |                  |                  |
-| great.ac     | resell    | 140      | 40%    | 5      | Devexpanse Ltd d/b/a Regery.com | 27/11/2025 04:31 | 27/11/2026 04:31 |
-| damn.ac      | available | 140      | 23%    | 4      | name.com                        |                  |                  |
-| correct.ac   | available | 140      | 18%    | 7      | name.com                        |                  |                  |
-| quiet.ac     | available | 136      | 27%    | 5      | name.com                        |                  |                  |
-| nothing.ac   | premium   | 130      | 34%    | 7      |                                 |                  |                  |
-| clean.ac     | resell    | 130      | 34%    | 5      | NameCheap, Inc.                 | 28/09/2021 17:19 | 28/09/2026 17:19 |
-| simple.ac    | resell    | 128      | 51%    | 6      | Sav.com, LLC - 35               | 02/08/2025 23:15 | 02/08/2026 23:15 |
-| period.ac    | premium   | 128      | 17%    | 6      |                                 |                  |                  |
-| what.ac      | resell    | 126      | 44%    | 4      | NameCheap, Inc.                 | 12/10/2025 00:20 | 12/10/2026 00:20 |
-| something.ac | premium   | 126      | 26%    | 9      |                                 |                  |                  |
-| pure.ac      | resell    | 126      | 47%    | 4      | Sav.com, LLC - 21               | 23/12/2025 23:16 | 23/12/2026 23:16 |
-| away.ac      | premium   | 126      | 25%    | 4      |                                 |                  |                  |
-| special.ac   | available | 124      | 24%    | 7      | name.com                        |                  |                  |
-| fuck.ac      | premium   | 124      | 43%    | 4      |                                 |                  |                  |
-| cut.ac       | premium   | 124      | 25%    | 3      |                                 |                  |                  |
-| wrong.ac     | premium   | 122      | 16%    | 5      |                                 |                  |                  |
-| tough.ac     | premium   | 122      | 15%    | 5      |                                 |                  |                  |
-| steady.ac    | premium   | 122      | 30%    | 6      |                                 |                  |                  |
-| smooth.ac    | premium   | 122      | 26%    | 6      |                                 |                  |                  |
-| present.ac   | premium   | 122      | 32%    | 7      |                                 |                  |                  |
-| pardon.ac    | premium   | 122      | 13%    | 6      |                                 |                  |                  |
-| own.ac       | premium   | 122      | 24%    | 3      |                                 |                  |                  |
-| heavy.ac     | premium   | 122      | 24%    | 5      |                                 |                  |                  |
-| ground.ac    | premium   | 122      | 23%    | 6      |                                 |                  |                  |
-| thick.ac     | premium   | 120      | 12%    | 5      |                                 |                  |                  |
-| there.ac     | premium   | 120      | 22%    | 5      |                                 |                  |                  |
+| Domain            | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
+| ----------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
+| sympathise.ac     | premium   | 77       | 1%     | 10     |           |         |         |
+| nationalanthem.ac | premium   | 82       | 2%     | 15     |           |         |         |
+| camping.ac        | premium   | 80       | 33%    | 7      |           |         |         |
+| chickenoregg.ac   | premium   | 70       | 3%     | 14     |           |         |         |
+| aeriferous.ac     | premium   | 46       | 1%     | 10     |           |         |         |
+| childabuse.ac     | premium   | 52       | 2%     | 11     |           |         |         |
+| potatochip.ac     | premium   | 70       | 3%     | 11     |           |         |         |
+| artistic.ac       | premium   | 78       | 19%    | 8      |           |         |         |
+| featured.ac       | available | 64       | 16%    | 8      | name.com  |         |         |
+| agitating.ac      | premium   | 54       | 1%     | 9      |           |         |         |
+| antsy.ac          | premium   | 53       | 4%     | 5      |           |         |         |
+| barefaced.ac      | premium   | 50       | 3%     | 9      |           |         |         |
+| shaper.ac         | premium   | 80       | 12%    | 6      |           |         |         |
+| petty.ac          | premium   | 60       | 13%    | 5      |           |         |         |
+| aortal.ac         | premium   | 50       | 2%     | 6      |           |         |         |
+| troika.ac         | premium   | 62       | 8%     | 6      |           |         |         |
+| bush.ac           | available | 64       | 19%    | 4      | name.com  |         |         |
+| passon.ac         | available | 72       | 8%     | 7      | name.com  |         |         |
+| Onions.ac         | premium   | 56       | 7%     | 6      |           |         |         |
+| beamy.ac          | premium   | 52       | 5%     | 5      |           |         |         |
+| lose.ac           | premium   | 56       | 12%    | 4      |           |         |         |
+| inverted.ac       | premium   | 48       | 8%     | 8      |           |         |         |
+| astounded.ac      | premium   | 68       | 2%     | 9      |           |         |         |
+| amoeban.ac        | premium   | 52       | 1%     | 7      |           |         |         |
+| sothat.ac         | premium   | 70       | 1%     | 7      |           |         |         |
+| deviate.ac        | premium   | 84       | 12%    | 7      |           |         |         |
+| howfar.ac         | premium   | 58       | 3%     | 7      |           |         |         |
+| aircooled.ac      | premium   | 64       | 5%     | 10     |           |         |         |
+| onthebubble.ac    | premium   | 64       | 2%     | 13     |           |         |         |
+| pushing.ac        | premium   | 82       | 6%     | 7      |           |         |         |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/ac-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/ac-oneword-domains/blob/main/ac.csv"><b>⬇️ CSV (100 domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/ac-oneword-domains/blob/main/ac.json"><b>⬇️ JSON (100 domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/ac-oneword-domains/blob/main/ac.csv"><b>⬇️ CSV (8.51K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/ac-oneword-domains/blob/main/ac.json"><b>⬇️ JSON (8.51K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (0)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -78,8 +78,8 @@ If you want to search & filters the complete database of [.AC one word domains](
 
 **Available on the Online Database only**:
 
-- Estimated value (from GoDaddy)
-- Business ideas (from GPT-5 highest version + web search)
+- Estimated value
+- Business ideas
 - Domain Rating
 - Backlinks
 - Traffic volume
