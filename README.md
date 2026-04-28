@@ -1,22 +1,22 @@
-# Available .AC One-Word Domains (8,512)
+# Available .AC One-Word Domains (11,379)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C513%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C512%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C379%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .ac one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .ac one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **11,379 domains** on the canonical page below.
 
-**Public extract:** 8,513 rows · **Live catalog:** 8,512 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,379 domains
 
-**Last updated:** 2026-04-14  
+**Last updated:** 2026-04-28  
 **Canonical page:** `https://unique.domains/domains/tld/ac`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .AC one-word domain ca
 
 ### Files
 
-- `ac.csv` — public CSV extract (8,513 rows)
-- `ac.json` — public JSON extract (8,513 rows)
+- `ac.csv` — public CSV extract (1,000 rows)
+- `ac.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                       |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------- |
-| cheap.ac      | available | $49.99    | $99           | 110            | 99     | 5      | name.com                        |
-| daily.ac      | resell    | $49.99    | $99           | 74             | 39     | 5      | NameCheap, Inc.                 |
-| help.ac       | premium   | —         | —             | 68             | 99     | 4      | —                               |
-| iron.ac       | available | $49.99    | $99           | 84             | 98     | 4      | name.com                        |
-| supreme.ac    | resell    | $49.99    | —             | 72             | 34     | 7      | Devexpanse Ltd d/b/a Regery.com |
-| bored.ac      | premium   | —         | —             | 68             | 99     | 5      | —                               |
-| wanted.ac     | available | $49.99    | $99           | 70             | 98     | 6      | name.com                        |
-| open.ac       | resell    | —         | —             | 106            | 99     | 4      | Dynadot Inc                     |
-| root.ac       | premium   | —         | —             | 64             | 99     | 4      | —                               |
-| evil.ac       | available | $49.99    | $99           | 92             | 38     | 4      | name.com                        |
-| mesh.ac       | resell    | —         | —             | 92             | 79     | 4      | Porkbun LLC                     |
-| british.ac    | premium   | —         | —             | 98             | 98     | 7      | —                               |
-| unify.ac      | available | $49.99    | $99           | 72             | 38     | 5      | name.com                        |
-| wise.ac       | resell    | —         | —             | 98             | 71     | 4      | Sav.com, LLC - 46               |
-| reliable.ac   | premium   | —         | —             | 94             | 98     | 8      | —                               |
-| technology.ac | available | $38.98    | —             | 88             | 37     | 10     | namecheap                       |
-| windows.ac    | resell    | —         | —             | 58             | 67     | 7      | NameSilo, LLC                   |
-| sexy.ac       | premium   | —         | —             | 82             | 98     | 4      | —                               |
-| shared.ac     | available | $49.99    | $99           | 70             | 37     | 6      | name.com                        |
-| pay.ac        | resell    | —         | —             | 84             | 60     | 3      | NameCheap, Inc.                 |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| shortcuts.ac    | available | $49.99    | —             | 48             | 41     | 10     | name.com        |
+| agents.ac       | resell    | —         | —             | 56             | 50     | 6      | NameCheap, Inc. |
+| whynot.ac       | available | $49.99    | —             | 74             | 39     | 7      | name.com        |
+| slots.ac        | resell    | —         | —             | 49             | 31     | 5      | InternetX       |
+| trends.ac       | available | $49.99    | —             | 60             | 32     | 6      | name.com        |
+| inspiration.ac  | available | $49.99    | —             | 88             | 30     | 11     | name.com        |
+| blocks.ac       | available | $49.99    | —             | 53             | 29     | 6      | name.com        |
+| dogs.ac         | available | $49.99    | —             | 76             | 28     | 4      | name.com        |
+| commonground.ac | available | $49.99    | —             | 74             | 28     | 13     | name.com        |
+| destination.ac  | available | $49.99    | —             | 90             | 25     | 11     | name.com        |
+| comics.ac       | available | $49.99    | —             | 68             | 24     | 6      | name.com        |
+| gamers.ac       | available | $34.99    | $47.99        | 62             | 24     | 6      | namesilo        |
+| loans.ac        | available | $34.99    | $47.99        | 58             | 24     | 5      | namesilo        |
+| echoes.ac       | available | $34.99    | $47.99        | 56             | 24     | 6      | namesilo        |
+| inhouse.ac      | available | $49.99    | —             | 70             | 23     | 8      | name.com        |
+| investors.ac    | available | $49.99    | —             | 60             | 23     | 9      | name.com        |
+| webshop.ac      | available | $49.99    | —             | 76             | 22     | 8      | name.com        |
+| flights.ac      | available | $34.99    | $47.99        | 61             | 22     | 7      | namesilo        |
+| teachers.ac     | available | $49.99    | —             | 56             | 22     | 8      | name.com        |
+| Mikey.ac        | available | $76.98    | —             | 70             | 21     | 5      | namecheap       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,513-row public sample | 8,512 live domains                               |
+| 1,000-row public sample | 11,379 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .AC One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .AC One-Word Domains*. Version 2026-04-28. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
