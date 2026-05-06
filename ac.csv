@@ -663,6 +663,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 3a572142-d834-4274-ab0f-2738029acf3d,inmyview.ac,available,49.99,,48,2,10,name.com,,
 3a72c949-83c6-4528-87d9-dde8f880a8d4,sqin.ac,available,49.99,,72,3,5,name.com,,
 3a8ab791-44c2-44c9-800d-1b59de95056d,letthefurfly.ac,available,49.99,,47,1,15,name.com,,
+3a8c3257-9fad-443e-8500-a9c732cdb332,act.ac,resell,,,86,39,3,Porkbun LLC,12/12/2021 12:26,12/12/2026 12:26
 3a8c5578-18d3-49ac-ac9f-d934ca0f6aea,secondyear.ac,available,34.99,47.99,66,1,11,namesilo,,
 3a9d7a2f-94d8-4d01-af38-44151bd547de,destination.ac,available,49.99,,90,25,11,name.com,,
 3b0f7b3b-3a47-43a3-9d75-0728be2fcc05,makeknown.ac,available,49.99,,78,4,10,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5aac1784-d44d-45d3-a463-111e50847f6d,Frenchtoast.ac,available,76.98,,80,7,12,namecheap,,
 5ace921b-ab0c-455d-a05b-b3c48da64229,maketheheadlines.ac,available,49.99,,72,0,18,name.com,,
 5af1dd36-f876-4ccc-bf22-01848ed27c1c,letoneselfgo.ac,available,49.99,,72,0,14,name.com,,
-5b29cb56-ca98-4e16-9590-32cc8840abf0,soups.ac,available,34.99,47.99,56,6,5,namesilo,,
