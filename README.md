@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .ac one-word domains from U
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,395 domains · **Median ask:** $48.17 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/ac`  
 **Best for:** founders, investors, studios
 
@@ -77,13 +77,13 @@ print(df.head())
 | act.ac          | resell    | —         | —             | 86             | 39     | 3      | Porkbun LLC     |
 | trends.ac       | available | $49.99    | —             | 60             | 32     | 6      | name.com        |
 | slots.ac        | resell    | —         | —             | 49             | 31     | 5      | InternetX       |
-| inspiration.ac  | available | $49.99    | —             | 88             | 30     | 11     | name.com        |
 | blocks.ac       | available | $49.99    | —             | 53             | 29     | 6      | name.com        |
 | dogs.ac         | available | $49.99    | —             | 76             | 28     | 4      | name.com        |
 | commonground.ac | available | $49.99    | —             | 74             | 28     | 13     | name.com        |
+| inspiration.ac  | available | $49.99    | —             | 88             | 27     | 11     | name.com        |
 | destination.ac  | available | $49.99    | —             | 90             | 24     | 11     | name.com        |
+| inhouse.ac      | available | $49.99    | —             | 70             | 24     | 8      | name.com        |
 | gamers.ac       | available | $34.99    | $47.99        | 62             | 24     | 6      | namesilo        |
-| loans.ac        | available | $34.99    | $47.99        | 58             | 24     | 5      | namesilo        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .AC One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .AC One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
