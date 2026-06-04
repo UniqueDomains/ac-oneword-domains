@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .ac one-word domains from U
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,395 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,395 domains · **Median ask:** $48.17 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,395 domains · **Median ask:** $40.44 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
+**Last updated:** 2026-06-04  
 **Canonical page:** `https://unique.domains/domains/tld/ac`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| Acup.ac         | available | $76.98    | —             | 80             | 5      | 5      | namecheap       |
-| getup.ac        | available | $49.99    | —             | 82             | 15     | 6      | name.com        |
-| useit.ac        | available | $49.99    | —             | 94             | 7      | 6      | name.com        |
-| gearup.ac       | available | $49.99    | —             | 80             | 16     | 7      | name.com        |
-| dogsick.ac      | available | $49.99    | —             | 90             | 1      | 7      | name.com        |
-| getlife.ac      | available | $49.99    | —             | 80             | 5      | 8      | name.com        |
-| leaveon.ac      | available | $49.99    | —             | 80             | 1      | 8      | name.com        |
-| whynot.ac       | available | $49.99    | —             | 74             | 44     | 7      | name.com        |
-| agents.ac       | resell    | —         | —             | 56             | 50     | 6      | NameCheap, Inc. |
-| shortcuts.ac    | available | $49.99    | —             | 48             | 41     | 10     | name.com        |
-| act.ac          | resell    | —         | —             | 86             | 39     | 3      | Porkbun LLC     |
-| trends.ac       | available | $49.99    | —             | 60             | 32     | 6      | name.com        |
-| slots.ac        | resell    | —         | —             | 49             | 31     | 5      | InternetX       |
-| blocks.ac       | available | $49.99    | —             | 53             | 29     | 6      | name.com        |
-| dogs.ac         | available | $49.99    | —             | 76             | 28     | 4      | name.com        |
-| commonground.ac | available | $49.99    | —             | 74             | 28     | 13     | name.com        |
-| inspiration.ac  | available | $49.99    | —             | 88             | 27     | 11     | name.com        |
-| destination.ac  | available | $49.99    | —             | 90             | 24     | 11     | name.com        |
-| inhouse.ac      | available | $49.99    | —             | 70             | 24     | 8      | name.com        |
-| gamers.ac       | available | $34.99    | $47.99        | 62             | 24     | 6      | namesilo        |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| nationalanthem.ac | available | $49.99    | —             | 82             | 2      | 15     | name.com  |
+| camping.ac        | available | $34.99    | $47.99        | 80             | 31     | 7      | namesilo  |
+| shaper.ac         | available | $34.99    | $47.99        | 80             | 12     | 6      | namesilo  |
+| deviate.ac        | premium   | —         | —             | 84             | 12     | 7      | —         |
+| pushing.ac        | available | $34.99    | $47.99        | 82             | 6      | 7      | namesilo  |
+| seventh.ac        | premium   | —         | —             | 80             | 10     | 7      | —         |
+| veg.ac            | available | $34.99    | $47.99        | 110            | 20     | 3      | namesilo  |
+| microwave.ac      | available | $49.99    | —             | 94             | 10     | 9      | name.com  |
+| mature.ac         | available | $34.99    | $47.99        | 92             | 16     | 6      | namesilo  |
+| believe.ac        | available | $49.99    | —             | 88             | 26     | 7      | name.com  |
+| damn.ac           | available | $49.99    | $99           | 140            | 24     | 4      | name.com  |
+| russia.ac         | premium   | —         | —             | 90             | 28     | 6      | —         |
+| arithmetic.ac     | available | $49.99    | —             | 82             | 8      | 10     | name.com  |
+| feet.ac           | available | $34.99    | $47.99        | 88             | 23     | 4      | namesilo  |
+| flying.ac         | available | $49.99    | $99           | 96             | 25     | 6      | name.com  |
+| wacky.ac          | available | $34.99    | $47.99        | 84             | 10     | 5      | namesilo  |
+| comedian.ac       | available | $49.99    | $99           | 80             | 7      | 8      | name.com  |
+| neighbour.ac      | available | $34.99    | $47.99        | 94             | 9      | 9      | namesilo  |
+| goodbye.ac        | available | $34.99    | $47.99        | 90             | 16     | 8      | namesilo  |
+| aging.ac          | available | $49.99    | $99           | 86             | 13     | 5      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .AC One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .AC One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
