@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .ac one-word domains from U
 
 **Public extract:** 1,000 rows · **Live catalog:** 23,850 domains · **Median ask:** $33.32 · **High-demand under $2,500:** 11
 
-**Last updated:** 2026-09-15
+**Last updated:** 2026-09-17
 **Canonical page:** `https://unique.domains/domains/tld/ac`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| christmas.ac | available | $34.99    | $47.99        | high           | low    | 9      | namesilo                                                  |
-| damn.ac      | available | $49.99    | $99           | high           | low    | 4      | name.com                                                  |
-| nothing.ac   | available | $34.99    | $47.99        | high           | low    | 7      | namesilo                                                  |
-| ear.ac       | available | $34.99    | $47.99        | high           | low    | 3      | namesilo                                                  |
-| men.ac       | resell    | $49.99    | —             | high           | low    | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
-| LLP.ac       | available | $34.99    | $47.99        | high           | low    | 3      | namesilo                                                  |
-| ada.ac       | resell    | —         | —             | medium         | medium | 3      | GoDaddy.com, LLC                                          |
-| pig.ac       | available | $34.99    | $47.99        | high           | low    | 3      | namesilo                                                  |
-| job.ac       | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.                                           |
-| tub.ac       | available | $34.99    | $47.99        | high           | low    | 3      | namesilo                                                  |
-| set.ac       | resell    | —         | —             | high           | low    | 3      | Devexpanse Ltd d/b/a Regery.com                           |
-| UML.ac       | available | $34.99    | $47.99        | high           | low    | 3      | namesilo                                                  |
-| zen.ac       | resell    | —         | —             | high           | medium | 3      | Porkbun LLC                                               |
-| veg.ac       | available | $34.99    | $47.99        | high           | low    | 3      | namesilo                                                  |
-| bank.ac      | resell    | —         | —             | high           | low    | 4      | 1API GmbH                                                 |
-| wig.ac       | available | $34.99    | $47.99        | high           | low    | 3      | namesilo                                                  |
-| bold.ac      | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.                                           |
-| xiv.ac       | available | $49.99    | $99           | high           | low    | 3      | name.com                                                  |
-| give.ac      | resell    | —         | —             | high           | low    | 4      | NameCheap, Inc.                                           |
-| ache.ac      | available | $28.98    | $76.98        | low            | low    | 4      | namecheap                                                 |
+| domain  | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| ear.ac  | available | $34.99    | $47.99        | high           | low    | 3      | namesilo                                                  |
+| men.ac  | resell    | $49.99    | —             | high           | low    | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
+| LLP.ac  | available | $34.99    | $47.99        | high           | low    | 3      | namesilo                                                  |
+| ada.ac  | resell    | —         | —             | medium         | medium | 3      | GoDaddy.com, LLC                                          |
+| pig.ac  | available | $34.99    | $47.99        | high           | low    | 3      | namesilo                                                  |
+| job.ac  | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.                                           |
+| tub.ac  | available | $34.99    | $47.99        | high           | low    | 3      | namesilo                                                  |
+| set.ac  | resell    | —         | —             | high           | low    | 3      | Devexpanse Ltd d/b/a Regery.com                           |
+| UML.ac  | available | $34.99    | $47.99        | high           | low    | 3      | namesilo                                                  |
+| zen.ac  | resell    | —         | —             | high           | medium | 3      | Porkbun LLC                                               |
+| veg.ac  | available | $34.99    | $47.99        | high           | low    | 3      | namesilo                                                  |
+| bank.ac | resell    | —         | —             | high           | low    | 4      | 1API GmbH                                                 |
+| wig.ac  | available | $34.99    | $47.99        | high           | low    | 3      | namesilo                                                  |
+| bold.ac | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.                                           |
+| xiv.ac  | available | $49.99    | $99           | high           | low    | 3      | name.com                                                  |
+| give.ac | resell    | —         | —             | high           | low    | 4      | NameCheap, Inc.                                           |
+| ache.ac | available | $28.98    | $76.98        | low            | low    | 4      | namecheap                                                 |
+| land.ac | resell    | —         | —             | medium         | low    | 4      | 1API GmbH                                                 |
+| achy.ac | available | $28.98    | $76.98        | low            | low    | 4      | namecheap                                                 |
+| safe.ac | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 36                                         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -115,6 +115,7 @@ If this sample already feels useful, Unique Domains is where the exact search be
 - `registrar`, Registrar name when known.
 - `created_at`, Creation timestamp when known.
 - `expires_at`, Expiry timestamp when known.
+- `status_verified_at`, When status was last established against the registry. Null means never checked.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
@@ -132,6 +133,7 @@ See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 ## 🔄 Update policy
 
 - This repository is refreshed regularly from the same export pipeline used for public dataset repos.
+- The snapshot date above is when this file was written, not when each row was checked. Read `status_verified_at` for that: a name whose status was last established months ago is exported with its real date rather than the snapshot's.
 - The README count targets the live catalog count from the public landing response when available.
 - The CSV and JSON files contain the public extract only and may not match the full live catalog size.
 - Stable historical references should be published via GitHub Releases outside this repository snapshot.
@@ -142,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .AC One-Word Domains*. Version 2026-09-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .AC One-Word Domains*. Version 2026-09-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
