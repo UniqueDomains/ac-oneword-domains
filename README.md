@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .ac one-word domains from U
 
 **Public extract:** 1,000 rows · **Live catalog:** 28,915 domains · **Median ask:** $32.61 · **High-demand under $2,500:** 10
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/ac`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| ear.ac    | available | $34.99    | $47.99        | high           | low    | 3      | namesilo                                                  |
-| men.ac    | resell    | $49.99    | —             | high           | low    | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
-| llp.ac    | available | $34.99    | $47.99        | high           | low    | 3      | namesilo                                                  |
-| arabic.ac | resell    | $49.99    | —             | medium         | low    | 6      | name.com                                                  |
-| pig.ac    | available | $34.99    | $47.99        | high           | low    | 3      | namesilo                                                  |
-| ada.ac    | resell    | —         | —             | medium         | medium | 3      | GoDaddy.com, LLC                                          |
-| tub.ac    | available | $34.99    | $47.99        | high           | low    | 3      | namesilo                                                  |
-| job.ac    | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.                                           |
-| uml.ac    | available | $34.99    | $47.99        | high           | low    | 3      | namesilo                                                  |
-| set.ac    | resell    | —         | —             | medium         | low    | 3      | Devexpanse Ltd d/b/a Regery.com                           |
-| veg.ac    | available | $34.99    | $47.99        | high           | low    | 3      | namesilo                                                  |
-| zen.ac    | resell    | —         | —             | high           | medium | 3      | Porkbun LLC                                               |
-| wig.ac    | available | $34.99    | $47.99        | high           | low    | 3      | namesilo                                                  |
-| bank.ac   | resell    | —         | —             | high           | low    | 4      | 1API GmbH                                                 |
-| xiv.ac    | available | $34.99    | $47.99        | medium         | low    | 3      | namesilo                                                  |
-| bold.ac   | resell    | —         | —             | low            | low    | 4      | Spaceship, Inc.                                           |
-| ache.ac   | available | $28.98    | $76.98        | low            | low    | 4      | namecheap                                                 |
-| give.ac   | resell    | —         | —             | high           | low    | 4      | NameCheap, Inc.                                           |
-| achy.ac   | available | $28.98    | $76.98        | low            | low    | 4      | namecheap                                                 |
-| land.ac   | resell    | —         | —             | medium         | low    | 4      | 1API GmbH                                                 |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| christmas.ac | available | $34.99    | $47.99        | high           | low    | 9      | namesilo                                                  |
+| ear.ac       | available | $34.99    | $47.99        | high           | low    | 3      | namesilo                                                  |
+| men.ac       | resell    | $49.99    | —             | high           | low    | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
+| llp.ac       | available | $34.99    | $47.99        | high           | low    | 3      | namesilo                                                  |
+| arabic.ac    | resell    | $49.99    | —             | medium         | low    | 6      | name.com                                                  |
+| pig.ac       | available | $34.99    | $47.99        | high           | low    | 3      | namesilo                                                  |
+| ada.ac       | resell    | —         | —             | medium         | medium | 3      | GoDaddy.com, LLC                                          |
+| tub.ac       | available | $34.99    | $47.99        | high           | low    | 3      | namesilo                                                  |
+| job.ac       | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.                                           |
+| uml.ac       | available | $34.99    | $47.99        | high           | low    | 3      | namesilo                                                  |
+| set.ac       | resell    | —         | —             | medium         | low    | 3      | Devexpanse Ltd d/b/a Regery.com                           |
+| veg.ac       | available | $34.99    | $47.99        | high           | low    | 3      | namesilo                                                  |
+| zen.ac       | resell    | —         | —             | high           | medium | 3      | Porkbun LLC                                               |
+| wig.ac       | available | $34.99    | $47.99        | high           | low    | 3      | namesilo                                                  |
+| bank.ac      | resell    | —         | —             | high           | low    | 4      | 1API GmbH                                                 |
+| xiv.ac       | available | $34.99    | $47.99        | medium         | low    | 3      | namesilo                                                  |
+| bold.ac      | resell    | —         | —             | low            | low    | 4      | Spaceship, Inc.                                           |
+| ache.ac      | available | $28.98    | $76.98        | low            | low    | 4      | namecheap                                                 |
+| give.ac      | resell    | —         | —             | high           | low    | 4      | NameCheap, Inc.                                           |
+| achy.ac      | available | $28.98    | $76.98        | low            | low    | 4      | namecheap                                                 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .AC One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .AC One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
