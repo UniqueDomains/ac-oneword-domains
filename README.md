@@ -1,10 +1,10 @@
-# Available .AC One-Word Domains (30,181)
+# Available .AC One-Word Domains (32,293)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-30%2C181%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-32%2C293%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .ac one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **30,181 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **32,293 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 30,181 domains · **Median ask:** $31.85 · **High-demand under $2,500:** 7
+**Public extract:** 1,000 rows · **Live catalog:** 32,293 domains · **Median ask:** $31.82 · **High-demand under $2,500:** 7
 
-**Last updated:** 2026-10-02
+**Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/tld/ac`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| aug.ac     | available | $28.98    | $76.98        | high           | low    | 3      | namecheap        |
-| ada.ac     | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC |
-| auk.ac     | available | $34.99    | $47.99        | high           | low    | 3      | namesilo         |
-| cap.ac     | resell    | —         | —             | high           | low    | 3      | Backordr LLC     |
-| emo.ac     | available | $34.99    | $47.99        | high           | low    | 3      | namesilo         |
-| cool.ac    | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.  |
-| err.ac     | available | $28.98    | $76.98        | high           | low    | 3      | namecheap        |
-| next.ac    | resell    | —         | —             | high           | high   | 4      | Spaceship, Inc.  |
-| hdl.ac     | available | $34.99    | $47.99        | high           | low    | 3      | namesilo         |
-| photo.ac   | resell    | —         | —             | high           | medium | 5      | Key-Systems GmbH |
-| hon.ac     | available | $34.99    | $47.99        | high           | low    | 3      | namesilo         |
-| poker.ac   | resell    | —         | —             | high           | medium | 5      | Sav.com, LLC     |
-| hoo.ac     | available | $34.99    | $47.99        | medium         | low    | 3      | namesilo         |
-| radar.ac   | resell    | —         | —             | high           | medium | 5      | Key-Systems GmbH |
-| ibn.ac     | available | $28.98    | $76.98        | medium         | low    | 3      | namecheap        |
-| growth.ac  | resell    | —         | —             | high           | medium | 6      | GoDaddy.com, LLC |
-| ive.ac     | available | $45       | $45           | medium         | low    | 3      | cloudflare       |
-| ticket.ac  | resell    | —         | —             | high           | low    | 6      | Key-Systems GmbH |
-| jog.ac     | available | $34.99    | $47.99        | high           | low    | 3      | namesilo         |
-| weather.ac | resell    | —         | —             | high           | medium | 7      | humbly, LLC      |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                       |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------- |
+| aug.ac      | available | $28.98    | $76.98        | high           | low    | 3      | namecheap                       |
+| ada.ac      | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                |
+| auk.ac      | available | $34.99    | $47.99        | high           | low    | 3      | namesilo                        |
+| cap.ac      | resell    | —         | —             | high           | low    | 3      | Backordr LLC                    |
+| emo.ac      | available | $34.99    | $47.99        | high           | low    | 3      | namesilo                        |
+| cool.ac     | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.                 |
+| epp.ac      | available | $34.99    | $47.99        | high           | low    | 3      | namesilo                        |
+| next.ac     | resell    | —         | —             | high           | high   | 4      | Spaceship, Inc.                 |
+| err.ac      | available | $28.98    | $76.98        | high           | low    | 3      | namecheap                       |
+| photo.ac    | resell    | —         | —             | high           | medium | 5      | Key-Systems GmbH                |
+| hdl.ac      | available | $34.99    | $47.99        | high           | low    | 3      | namesilo                        |
+| poker.ac    | resell    | —         | —             | high           | medium | 5      | Sav.com, LLC                    |
+| hmo.ac      | available | $34.99    | $47.99        | high           | low    | 3      | namesilo                        |
+| radar.ac    | resell    | —         | —             | high           | medium | 5      | Key-Systems GmbH                |
+| hon.ac      | available | $34.99    | $47.99        | high           | low    | 3      | namesilo                        |
+| ticket.ac   | resell    | —         | —             | high           | low    | 6      | Key-Systems GmbH                |
+| hoo.ac      | available | $34.99    | $47.99        | medium         | low    | 3      | namesilo                        |
+| weather.ac  | resell    | —         | —             | high           | medium | 7      | humbly, LLC                     |
+| hrt.ac      | available | $45       | $45           | high           | low    | 3      | cloudflare                      |
+| original.ac | resell    | —         | —             | high           | low    | 8      | Devexpanse Ltd d/b/a Regery.com |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 30,181 live domains                        |
+| 1,000-row public sample | 32,293 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 7 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .AC One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .AC One-Word Domains*. Version 2026-10-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
